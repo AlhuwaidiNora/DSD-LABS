@@ -1,0 +1,8 @@
+0.6
+2019.1
+May 24 2019
+14:51:52
+/home/it/Desktop/Lab2-Task2/project_1/project_1.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+/home/it/Desktop/Lab2-Task2/project_1/project_1.srcs/sim_1/new/tb_and4gate.sv,1732516401,systemVerilog,,,,andgate_tb,,,,,,,,
+/home/it/Desktop/Lab2-Task2/project_1/project_1.srcs/sources_1/new/and4gate.sv,1732516401,systemVerilog,,/home/it/Desktop/Lab2-Task2/project_1/project_1.srcs/sources_1/new/andgate.sv,,and4gate,,,,,,,,
+/home/it/Desktop/Lab2-Task2/project_1/project_1.srcs/sources_1/new/andgate.sv,1732179045,systemVerilog,,/home/it/Desktop/Lab2-Task2/project_1/project_1.srcs/sim_1/new/tb_and4gate.sv,,andgate,,,,,,,,
